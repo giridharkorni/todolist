@@ -52,7 +52,7 @@
   border-bottom: 1px solid #ccc;
   border-radius: 4px;
   font-size: 1rem;
-  color: white;
+  color: rgb(12, 12, 12);
 }
 
 .input:focus {
@@ -85,7 +85,7 @@
   margin-top: 1rem;
   font-size: 1rem;
   padding-top: 1rem;
-  color: white;
+  color: rgb(15, 9, 9);
   text-align: center;
 }
 
