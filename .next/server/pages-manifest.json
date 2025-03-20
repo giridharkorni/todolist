@@ -2,7 +2,12 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/login": "pages/login.js",
-  "/signup": "pages/signup.js"
+  "/api/protected": "pages/api/protected.js",
+  "/signup": "pages/signup.js",
+  "/api/signup": "pages/api/signup.js",
+  "/api/login": "pages/api/login.js",
+  "/dashboard": "pages/dashboard.js",
+  "/api/getTodos": "pages/api/getTodos.js",
+  "/api/addTodo": "pages/api/addTodo.js"
 }
